@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**lordfalah/lordfalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![readmebox](https://github.com/lordfalah/irfinfal/assets/63539071/ef32a95c-8081-40cf-b771-aa745ce81d39)
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
