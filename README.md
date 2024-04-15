@@ -7,7 +7,7 @@
 #### About Me
 I am Irfin Falah, Informatics Engineering Student of STMIK Pontianak, entry year 2021 - present. Very enthusiastic to learn new tech and continue to develop skills as a Frontend Developer.
 
-- 🌱 I’m currently learning **next 13**
+- 🌱 I’m currently learning **next 14**
 
 - 💬 Ask me about **react**
 
